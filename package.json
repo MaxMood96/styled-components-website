@@ -46,7 +46,7 @@
     "react-is": "^16.8.6",
     "react-live": "^2.1.2",
     "react-transition-group": "^4.3.0",
-    "styled-components": "^5.2.0",
+    "styled-components": "^5.3.0",
     "styled-theming": "^2.2.0",
     "stylis-plugin-rtl": "^1.0.0",
     "webpack-bundle-analyzer": "^4.4.0"
