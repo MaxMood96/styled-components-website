@@ -70,7 +70,7 @@
     "prettier": "^2.8.8",
     "react-test-renderer": "^17.0.0",
     "remark-gfm": "^3.0.1",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "ts-jest": "^29.1.0",
     "typescript": "^5.0.4",
     "webpack-bundle-analyzer": "^4.8.0"
