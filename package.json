@@ -29,7 +29,7 @@
     "@styled-icons/material": "^10.47.0",
     "@zeit/next-mdx": "^1.2.0",
     "@zeit/next-source-maps": "^0.0.3",
-    "axios": "^0.24.0",
+    "axios": "^1.6.4",
     "invariant": "^2.2.4",
     "isomorphic-fetch": "^3.0.0",
     "markdown-to-jsx": "^7.2.0",
